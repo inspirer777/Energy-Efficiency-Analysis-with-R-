@@ -22,4 +22,29 @@ This project analyzes the energy efficiency of buildings using regression and st
   - Transformations (Box-Cox, inverse residual plots)
 - **Software**: R
 
+## **How to Use This Repository**
+1. Clone this repository:
+   ```bash
+   https://github.com/inspirer777/Energy-Efficiency-Analysis-with-R-.git
+   ```
 
+
+---
+
+## **Requirements**
+- **R and RStudio**: [Download R](https://cran.r-project.org/) and [RStudio](https://posit.co/download/rstudio/).
+- Required R libraries: `tidyverse`, `ggplot2`, `dplyr`, `readr`
+
+---
+
+## **Contributing**
+We welcome contributions! Feel free to open issues or submit pull requests to improve the content or add new examples.
+
+---
+
+## **License**
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+### Happy coding !
